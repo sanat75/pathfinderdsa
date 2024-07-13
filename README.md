@@ -31,11 +31,11 @@ Deployment: Vercel
 
 Installation ->
 Clone the repository:
-bash
+
 Copy code
 git clone https://github.com/Shivam-2309/pathfinder.git
 Install dependencies:
-bash
+
 Copy code
 npm install or npm i
 ![Screenshot 2024-07-14 035542](https://github.com/user-attachments/assets/6b7d9883-9522-46a5-81fd-75adbdafeff9)
