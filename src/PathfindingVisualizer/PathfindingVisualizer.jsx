@@ -460,12 +460,6 @@ export default class PathfindingVisualizer extends Component {
         </table>
         <button
           type="button"
-          className="btn btn-danger"
-          onClick={() => this.clearGrid()}>
-          Clear Grid
-        </button>
-        <button
-          type="button"
           className="btn btn-warning"
           onClick={() => this.clearWalls()}>
           Clear Walls
