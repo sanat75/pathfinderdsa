@@ -392,6 +392,8 @@ export default class PathfindingVisualizer extends Component {
     }
   }
 
+
+  
   render() {
     const {grid, mouseIsPressed} = this.state;
     return (
