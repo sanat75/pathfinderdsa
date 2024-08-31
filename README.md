@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ﻿Path Visualizer App
 
 Table of Contents
@@ -34,7 +33,7 @@ Installation ->
 Clone the repository:
 
 Copy code
-git clone https://github.com/Shivam-2309/pathfinder.git
+git clone https://github.com/sanat75/Pathfinder.git
 Install dependencies:
 
 Copy code
@@ -60,6 +59,3 @@ Dijkstra's Algorithm
 Overview
 Dijkstra's algorithm is a fundamental algorithm used to find the shortest path between nodes in a graph, which may represent, for example, road networks. It works for both directed and undirected graphs with non-negative weights on the edges.
 ![Screenshot 2024-07-14 035402](https://github.com/user-attachments/assets/b583b862-3ec2-4fde-8bad-f96c89c220ba)
-=======
-# Pathfinder
->>>>>>> b492c5f205a8635fbfd4a16e8903435bda76b86f
