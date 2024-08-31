@@ -33,7 +33,7 @@ Installation ->
 Clone the repository:
 
 Copy code
-git clone https://github.com/sanat75/Pathfinder.git
+git clone https://github.com/sanat75/pathfinderdsa.git
 Install dependencies:
 
 Copy code
